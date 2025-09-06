@@ -2,11 +2,6 @@ const { User } = require("../model/user.model");
 const {order} =  require('../model/order.js')
 const bcrypt = require('bcryptjs');
 const { Contact } = require("../model/contact.js");
-const { Addproduct } = require("../model/addproduct.js");
-const fs = require("fs");
-const path = require("path");
-const dataFilePath = path.join(__dirname, "../../frontend/src/assets/data/data.js");
-
 
 const signup = async (req, res) =>{
     try {
@@ -73,50 +68,5 @@ const contact = async(req,res) =>{
     }
 }
 
-const addproduct = async (req,res) =>{
-     try {
-    const { name, price, gender, category, images, sizes, latest, description } = req.body;
 
-    // 1. Save to MongoDB
-    const newproduct = new Addproduct({
-      name,
-      price,
-      gender,
-      category,
-      images,
-      sizes,
-      latest,
-      description,
-    });
-    await newproduct.save();
-
-    // 2. Read existing products from frontend data.js
-    delete require.cache[require.resolve("../../frontend/src/assets/data/data.js")]; // clear cache
-    const data = require("../../frontend/public/data.js"); 
-    const products = data.products || [];
-
-    // 3. Append new product
-    const productToSave = {
-      _id: newproduct._id.toString(),
-      name,
-      price,
-      gender,
-      category,
-      images,
-      sizes,
-      latest,
-      description,
-    };
-    products.push(productToSave);
-
-    // 4. Write back to frontend data.js
-    const fileContent = `const data = ${JSON.stringify({ products }, null, 2)};\n\nexport default data;`;
-    fs.writeFileSync(dataFilePath, fileContent, "utf8");
-
-    res.status(200).json({ message: "Product added successfully", newproduct });
-  } catch (error) {
-    res.status(400).json({ message: error.message });
-  }
-}
-
-module.exports = {signup , login , orders , contact , orderfind , addproduct}
+module.exports = {signup , login , orders , contact , orderfind}
