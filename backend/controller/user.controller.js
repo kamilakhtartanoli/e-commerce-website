@@ -47,6 +47,15 @@ const orders = async (req, res) => {
   }
 }
 
+const orderfind = async (req,res) => {
+    try {
+        const orderfinds = await order.find({})
+        res.status(200).json(orderfinds)
+    } catch (error) {
+        res.status(400).json({message:error.message})
+    }
+} 
+
 const contact = async(req,res) =>{
     try {
         const {name , email , phone , message} = req.body;
@@ -59,4 +68,4 @@ const contact = async(req,res) =>{
     }
 }
 
-module.exports = {signup , login , orders , contact}
+module.exports = {signup , login , orders , contact , orderfind}

@@ -21,6 +21,10 @@ const orderSchema = new mongoose.Schema({
     type: String,
     required: [true, "City is required"]
   },
+  totalprice:{
+    type:String
+  }
+  ,
    products: [
     {
       productId: {type:String},

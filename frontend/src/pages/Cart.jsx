@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import Navbar from "./Navbar";
 import {
@@ -43,6 +43,7 @@ const total = cartItems.length > 0
         address,
         city,
         phone,
+        totalprice:total,
         products: productData,
       });
       if(res.status === 200){
