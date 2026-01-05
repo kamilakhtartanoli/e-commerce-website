@@ -10,11 +10,13 @@ import Products from './pages/Products.jsx'
 import Man from './pages/Man.jsx'
 import Women from './pages/Women.jsx'
 import Contact from './pages/Contact.jsx'
+import ScrollToTop from './pages/ScrollToTop.jsx'
 
 
 function App() {
 
   return<>
+  <ScrollToTop />
   <Routes>
     <Route path='/' element={<Home />}/>
     <Route path='/about' element={<About />}/>
