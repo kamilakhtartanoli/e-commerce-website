@@ -1,9 +1,195 @@
+import image1_1 from '../data/image1_1.avif'
+import image1_2 from '../data/image1_2.avif'
+import image1_3 from '../data/image1_3.avif'
+import image1_4 from '../data/image1_4.avif'
+import image2_1 from '../data/image2_1.avif'
+import image2_2 from '../data/image2_2.avif'
+import image2_3 from '../data/image2_3.avif'
+import image2_4 from '../data/image2_4.avif'
+import image3_1 from '../data/image3_1.avif'
+import image3_2 from '../data/image3_2.avif'
+import image3_3 from '../data/image3_3.avif'
+import image3_4 from '../data/image3_4.avif'
+import image4_1 from '../data/image4_1.avif'
+import image4_2 from '../data/image4_2.avif'
+import image4_3 from '../data/image4_3.avif'
+import image4_4 from '../data/image4_4.avif'
+import image5_1 from '../data/image5_1.avif'
+import image5_2 from '../data/image5_2.avif'
+import image5_3 from '../data/image5_3.avif'
+import image5_4 from '../data/image5_4.avif'
+import image6_1 from '../data/image6_1.avif'
+import image6_2 from '../data/image6_2.avif'
+import image6_3 from '../data/image6_3.avif'
+import image6_4 from '../data/image6_4.avif'
+import image7_1 from '../data/image7_1.avif'
+import image7_2 from '../data/image7_2.avif'
+import image7_3 from '../data/image7_3.avif'
+import image7_4 from '../data/image7_4.avif'
+import image8_1 from '../data/image8_1.avif'
+import image8_2 from '../data/image8_2.avif'
+import image8_3 from '../data/image8_3.avif'
+import image8_4 from '../data/image8_4.avif'
+import image9_1 from '../data/image9_1.avif'
+import image9_2 from '../data/image9_2.avif'
+import image9_3 from '../data/image9_3.avif'
+import image9_4 from '../data/image9_4.avif'
+import image10_1 from '../data/image10_1.avif'
+import image10_2 from '../data/image10_2.avif'
+import image10_3 from '../data/image10_3.avif'
+import image10_4 from '../data/image10_4.avif'
+import image11_1 from '../data/image11_1.avif'
+import image11_2 from '../data/image11_2.avif'
+import image11_3 from '../data/image11_3.avif'
+import image11_4 from '../data/image11_4.avif'
+import image12_1 from '../data/image12_1.avif'
+import image12_2 from '../data/image12_2.avif'
+import image12_3 from '../data/image12_3.avif'
+import image12_4 from '../data/image12_4.avif'
+import image13_1 from '../data/image13_1.avif'
+import image13_2 from '../data/image13_2.avif'
+import image13_3 from '../data/image13_3.avif'
+import image13_4 from '../data/image13_4.avif'
+import image14_1 from '../data/image14_1.avif'
+import image14_2 from '../data/image14_2.avif'
+import image14_3 from '../data/image14_3.avif'
+import image14_4 from '../data/image14_4.avif'
+import image15_1 from '../data/image15_1.avif'
+import image15_2 from '../data/image15_2.avif'
+import image15_3 from '../data/image15_3.avif'
+import image15_4 from '../data/image15_4.avif'
+import image16_1 from '../data/image16_1.avif'
+import image16_2 from '../data/image16_2.avif'
+import image16_3 from '../data/image16_3.avif'
+import image16_4 from '../data/image16_4.avif'
+import image17_1 from '../data/image17_1.avif'
+import image17_2 from '../data/image17_2.avif'
+import image17_3 from '../data/image17_3.avif'
+import image17_4 from '../data/image17_4.avif'
+import image18_1 from '../data/image18_1.avif'
+import image18_2 from '../data/image18_2.avif'
+import image18_3 from '../data/image18_3.avif'
+import image18_4 from '../data/image18_4.avif'
+import image19_1 from '../data/image19_1.avif'
+import image19_2 from '../data/image19_2.avif'
+import image19_3 from '../data/image19_3.avif'
+import image19_4 from '../data/image19_4.avif'
+import image20_1 from '../data/image20_1.avif'
+import image20_2 from '../data/image20_2.avif'
+import image20_3 from '../data/image20_3.avif'
+import image20_4 from '../data/image20_4.avif'
+import image21_1 from '../data/image21_1.avif'
+import image21_2 from '../data/image21_2.avif'
+import image21_3 from '../data/image21_3.avif'
+import image21_4 from '../data/image21_4.avif'
+import image22_1 from '../data/image22_1.avif'
+import image22_2 from '../data/image22_2.avif'
+import image22_3 from '../data/image22_3.avif'
+import image22_4 from '../data/image22_4.avif'
+import image23_1 from '../data/image23_1.avif'
+import image23_2 from '../data/image23_2.avif'
+import image23_3 from '../data/image23_3.avif'
+import image23_4 from '../data/image23_4.avif'
+import image24_1 from '../data/image24_1.avif'
+import image24_2 from '../data/image24_2.avif'
+import image24_3 from '../data/image24_3.avif'
+import image24_4 from '../data/image24_4.avif'
+import image25_1 from '../data/image25_1.avif'
+import image25_2 from '../data/image25_2.avif'
+import image25_3 from '../data/image25_3.avif'
+import image25_4 from '../data/image25_4.avif'
+import image26_1 from '../data/image26_1.avif'
+import image26_2 from '../data/image26_2.avif'
+import image26_3 from '../data/image26_3.avif'
+import image26_4 from '../data/image26_4.avif'
+import image27_1 from '../data/image27_1.avif'
+import image27_2 from '../data/image27_2.avif'
+import image27_3 from '../data/image27_3.avif'
+import image27_4 from '../data/image27_4.avif'
+import image28_1 from '../data/image28_1.avif'
+import image28_2 from '../data/image28_2.avif'
+import image28_3 from '../data/image28_3.avif'
+import image28_4 from '../data/image28_4.avif'
+import image29_1 from '../data/image29_1.avif'
+import image29_2 from '../data/image29_2.avif'
+import image29_3 from '../data/image29_3.avif'
+import image29_4 from '../data/image29_4.avif'
+import image30_1 from '../data/image30_1.avif'
+import image30_2 from '../data/image30_2.avif'
+import image30_3 from '../data/image30_3.avif'
+import image30_4 from '../data/image30_4.avif'
+import image31_1 from '../data/image31_1.avif'
+import image31_2 from '../data/image31_2.avif'
+import image31_3 from '../data/image31_3.avif'
+import image31_4 from '../data/image31_4.avif'
+import image32_1 from '../data/image32_1.avif'
+import image32_2 from '../data/image32_2.avif'
+import image33_1 from '../data/image33_1.avif'
+import image33_2 from '../data/image33_2.avif'
+import image33_3 from '../data/image33_3.avif'
+import image33_4 from '../data/image33_4.avif'
+import image34_1 from '../data/image34_1.avif'
+import image34_2 from '../data/image34_2.avif'
+import image34_3 from '../data/image34_3.avif'
+import image35_1 from '../data/image35_1.avif'
+import image35_2 from '../data/image35_2.avif'
+import image35_3 from '../data/image35_3.avif'
+import image36_1 from '../data/image36_1.avif'
+import image36_2 from '../data/image36_2.avif'
+import image36_3 from '../data/image36_3.avif'
+import image37_1 from '../data/image37_1.avif'
+import image37_2 from '../data/image37_2.avif'
+import image37_3 from '../data/image37_3.avif'
+import image37_4 from '../data/image37_4.avif'
+import image38_1 from '../data/image38_1.avif'
+import image38_2 from '../data/image38_2.avif'
+import image38_3 from '../data/image38_3.avif'
+import image39_1 from '../data/image39_1.avif'
+import image39_2 from '../data/image39_2.avif'
+import image39_3 from '../data/image39_3.avif'
+import image39_4 from '../data/image39_4.avif'
+import image40_1 from '../data/image40_1.avif'
+import image40_2 from '../data/image40_2.avif'
+import image40_3 from '../data/image40_3.avif'
+import image40_4 from '../data/image40_4.avif'
+import image41_1 from '../data/image41_1.avif'
+import image41_2 from '../data/image41_2.avif'
+import image41_3 from '../data/image41_3.avif'
+import image41_4 from '../data/image41_4.avif'
+import image42_1 from '../data/image42_1.avif'
+import image42_2 from '../data/image42_2.avif'
+import image42_3 from '../data/image42_3.avif'
+import image42_4 from '../data/image42_4.avif'
+import image43_1 from '../data/image43_1.avif'
+import image43_2 from '../data/image43_2.avif'
+import image43_3 from '../data/image43_3.avif'
+import image43_4 from '../data/image43_4.avif'
+import image44_1 from '../data/image44_1.avif'
+import image44_2 from '../data/image44_2.avif'
+import image44_3 from '../data/image44_3.avif'
+import image44_4 from '../data/image44_4.avif'
+import image45_1 from '../data/image45_1.avif'
+import image45_2 from '../data/image45_2.avif'
+import image45_3 from '../data/image45_3.avif'
+import image45_4 from '../data/image45_4.avif'
+import image46_1 from '../data/image46_1.avif'
+import image46_2 from '../data/image46_2.avif'
+import image46_3 from '../data/image46_3.avif'
+import image47_1 from '../data/image47_1.avif'
+import image47_2 from '../data/image47_2.avif'
+import image47_3 from '../data/image47_3.avif'
+import image47_4 from '../data/image47_4.avif'
+import image48_1 from '../data/image48_1.avif'
+import image48_2 from '../data/image48_2.avif'
+import image48_3 from '../data/image48_3.avif'
+import image48_4 from '../data/image48_4.avif'
+
 export const data = [
   {
     "id": "1",
     "name": "Trendy Attire",
-    "price": 1699,
-    "description": "trendy attire- hawaiian men's irish linen cotton elegance shirt",
+    "price": 1599,
+    "descrip5ion": "trendy attire- hawaiian men's irish linen cotton elegance shirt",
     "latest": true,
     "gender": "male",
     "size": [
@@ -13,10 +199,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image1_1.avif",
-      "../public/image1_2.avif",
-      "../public/image1_3.avif",
-      "../public/image1_4.avif"
+      image1_1,image1_2,image1_3,image1_4
     ],
     "category": "SHIRTS"
   },
@@ -27,45 +210,37 @@ export const data = [
     "description": "trendy attire- hawaiian men's irish linen cotton elegance shirt",
     "latest": false,
     "gender": "male",
-    "size": [
+    "size":[
       "S",
       "M",
       "L",
-      "XL"
+      "XL10"
     ],
     "image": [
-      "../public/image2_1.avif",
-      "../public/image2_2.avif",
-      "../public/image2_3.avif",
-      "../public/image2_4.avif"
-    ],
+      image2_1,image2_2,image2_3,image2_4
+  ],
     "category": "SHIRTS"
   },
-  {
-    "id": "3",
+{
+    "id": "3",    
     "name": "Trendy Attire",
     "price": 1699,
     "description": "trendy attire- hawaiian men's irish linen cotton elegance shirt",
     "latest": true,
     "gender": "male",
     "size": [
-      "S",
+      "13",
       "M",
       "L",
-      "XL"
-    ],
-    "image": [
-      "../public/image3_1.avif",
-      "../public/image3_2.avif",
-      "../public/image3_3.avif",
-      "../public/image3_4.avif"
-    ],
+      "XL"],
+    "image":[ image3_1,image3_2,image3_3,image3_4
+  ],
     "category": "SHIRTS"
   },
   {
     "id": "4",
-    "name": "Trendy Attire",
-    "price": 1699,
+    "name": "Trendy Atti16e",
+    "price":161699,
     "description": "trendy attire- hawaiian men's irish linen cotton elegance shirt",
     "latest": false,
     "gender": "male",
@@ -76,10 +251,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image4_1.avif",
-      "../public/image4_2.avif",
-      "../public/image4_3.avif",
-      "../public/image4_4.avif"
+      image4_1,image4_2,image4_3,image4_4
     ],
     "category": "SHIRTS"
   },
@@ -97,10 +269,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image5_1.avif",
-      "../public/image5_2.avif",
-      "../public/image5_3.avif",
-      "../public/image5_4.avif"
+      image5_1,image5_2,image5_3,image5_4
     ],
     "category": "SHIRTS"
   },
@@ -118,10 +287,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image6_1.avif",
-      "../public/image6_2.avif",
-      "../public/image6_3.avif",
-      "../public/image6_4.avif"
+      image6_1,image6_2,image6_3,image6_4
     ],
     "category": "FORMAL-SHOES"
   },
@@ -139,10 +305,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image7_1.avif",
-      "../public/image7_2.avif",
-      "../public/image7_3.avif",
-      "../public/image7_4.avif"
+      image7_1,image7_2,image7_3,image7_4
     ],
     "category": "FORMAL-SHOES"
   },
@@ -160,10 +323,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image8_1.avif",
-      "../public/image8_2.avif",
-      "../public/image8_3.avif",
-      "../public/image8_4.avif"
+      image8_1,image8_2,image8_3,image8_4
     ],
     "category": "FORMAL-SHOES"
   },
@@ -181,10 +341,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image9_1.avif",
-      "../public/image9_2.avif",
-      "../public/image9_3.avif",
-      "../public/image9_4.avif"
+      image9_1,image9_2,image9_3,image9_4
     ],
     "category": "FORMAL-SHOES"
   },
@@ -202,10 +359,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image10_1.avif",
-      "../public/image10_2.avif",
-      "../public/image10_3.avif",
-      "../public/image10_4.avif"
+      image10_1,image10_2,image10_3,image10_4
     ],
     "category": "FORMAL-SHOES"
   },
@@ -223,10 +377,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image11_1.avif",
-      "../public/image11_2.avif",
-      "../public/image11_3.avif",
-      "../public/image11_4.avif"
+       image11_1,image11_2,image11_3,image11_4
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -244,10 +395,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image12_1.avif",
-      "../public/image12_2.avif",
-      "../public/image12_3.avif",
-      "../public/image12_4.avif"
+       image12_1,image12_2,image12_3,image12_4
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -265,10 +413,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image13_1.avif",
-      "../public/image13_2.avif",
-      "../public/image13_3.avif",
-      "../public/image13_4.avif"
+       image13_1,image13_2,image13_3,image13_4
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -286,10 +431,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image14_1.avif",
-      "../public/image14_2.avif",
-      "../public/image14_3.avif",
-      "../public/image14_4.avif"
+       image14_1,image14_2,image14_3,image14_4
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -307,10 +449,7 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image15_1.avif",
-      "../public/image15_2.avif",
-      "../public/image15_3.avif",
-      "../public/image15_4.avif"
+       image15_1,image15_2,image15_3,image15_4
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -328,10 +467,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image16_1.avif",
-      "../public/image16_2.avif",
-      "../public/image16_3.avif",
-      "../public/image16_4.avif"
+      image16_1,image16_2,image16_3,image16_4
     ],
     "category": "SANDLES"
   },
@@ -349,10 +485,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image17_1.avif",
-      "../public/image17_2.avif",
-      "../public/image17_3.avif",
-      "../public/image17_4.avif"
+      image17_1,image17_2,image17_3,image17_4
     ],
     "category": "SANDLES"
   },
@@ -370,10 +503,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image18_1.avif",
-      "../public/image18_2.avif",
-      "../public/image18_3.avif",
-      "../public/image18_4.avif"
+      image18_1,image18_2,image18_3,image18_4
     ],
     "category": "SANDLES"
   },
@@ -391,10 +521,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image19_1.avif",
-      "../public/image19_2.avif",
-      "../public/image19_3.avif",
-      "../public/image19_4.avif"
+      image19_1,image19_2,image19_3,image19_4
     ],
     "category": "SANDLES"
   },
@@ -412,10 +539,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image20_1.avif",
-      "../public/image20_2.avif",
-      "../public/image20_3.avif",
-      "../public/image20_4.avif"
+       image20_1,image20_2,image20_3,image20_4
     ],
     "category": "SANDLES"
   },
@@ -433,10 +557,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image21_1.avif",
-      "../public/image21_2.avif",
-      "../public/image21_3.avif",
-      "../public/image21_4.avif"
+      image21_1,image21_2,image21_3,image21_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -454,10 +575,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image22_1.avif",
-      "../public/image22_2.avif",
-      "../public/image22_3.avif",
-      "../public/image22_4.avif"
+      image22_1,image22_2,image22_3,image22_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -475,10 +593,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image23_1.avif",
-      "../public/image23_2.avif",
-      "../public/image23_3.avif",
-      "../public/image23_4.avif"
+     image23_1,image23_2,image23_3,image23_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -496,10 +611,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image24_1.avif",
-      "../public/image24_2.avif",
-      "../public/image24_3.avif",
-      "../public/image24_4.avif"
+      image24_1,image24_2,image24_3,image24_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -517,10 +629,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image25_1.avif",
-      "../public/image25_2.avif",
-      "../public/image25_3.avif",
-      "../public/image25_4.avif"
+     image25_1,image25_2,image25_3,image25_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -538,10 +647,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image26_1.avif",
-      "../public/image26_2.avif",
-      "../public/image26_3.avif",
-      "../public/image26_4.avif"
+      image26_1,image26_2,image26_3,image26_4
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -559,10 +665,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image27_1.avif",
-      "../public/image27_2.avif",
-      "../public/image27_3.avif",
-      "../public/image27_4.avif"
+      image27_1,image27_2,image27_3,image27_4
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -579,10 +682,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image28_1.avif",
-      "../public/image28_2.avif",
-      "../public/image28_3.avif",
-      "../public/image28_4.avif"
+      image28_1,image28_2,image28_3,image28_4
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -600,10 +700,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image29_1.avif",
-      "../public/image29_2.avif",
-      "../public/image29_3.avif",
-      "../public/image29_4.avif"
+      image29_1,image29_2,image29_3,image29_4
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -621,10 +718,7 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image30_1.avif",
-      "../public/image30_2.avif",
-      "../public/image30_3.avif",
-      "../public/image30_4.avif"
+      image30_1,image30_2,image30_3,image30_4
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -642,10 +736,7 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image31_1.avif",
-      "../public/image31_2.avif",
-      "../public/image31_3.avif",
-      "../public/image31_4.avif"
+       image31_1,image31_2,image31_3,image31_4
     ],
     "category": "TROUSERS"
   },
@@ -663,8 +754,7 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image32_1.avif",
-      "../public/image32_2.avif"
+      image32_1,image32_2
     ],
     "category": "TROUSERS"
   },
@@ -682,10 +772,7 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image33_1.avif",
-      "../public/image33_2.avif",
-      "../public/image33_3.avif",
-      "../public/image33_4.avif"
+       image33_1,image33_2,image33_3,image33_4
     ],
     "category": "TROUSERS"
   },
@@ -703,9 +790,7 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image34_1.avif",
-      "../public/image34_2.avif",
-      "../public/image34_3.avif"
+       image34_1,image34_2,image34_3
     ],
     "category": "TROUSERS"
   },
@@ -722,9 +807,7 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image35_1.avif",
-      "../public/image35_2.avif",
-      "../public/image35_3.avif"
+       image35_1,image35_2,image35_3
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -741,9 +824,7 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image36_1.avif",
-      "../public/image36_2.avif",
-      "../public/image36_3.avif"
+     image36_1,image36_2,image36_3
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -760,10 +841,7 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image37_1.avif",
-      "../public/image37_2.avif",
-      "../public/image37_3.avif",
-      "../public/image37_4.avif"
+       image37_1,image37_2,image37_3,image37_4
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -780,9 +858,7 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image38_1.avif",
-      "../public/image38_2.avif",
-      "../public/image38_3.avif"
+      image38_1,image38_2,image38_3
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -794,10 +870,7 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image39_1.avif",
-      "../public/image39_2.avif",
-      "../public/image39_3.avif",
-      "../public/image39_4.avif"
+      image39_1,image39_2,image39_3,image39_4
     ],
     "category": "FEMALE-BAGS"
   },
@@ -809,10 +882,7 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image40_1.avif",
-      "../public/image40_2.avif",
-      "../public/image40_3.avif",
-      "../public/image40_4.avif"
+     image40_1,image40_2,image40_3,image40_4
     ],
     "category": "FEMALE-BAGS"
   },
@@ -824,10 +894,7 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image41_1.avif",
-      "../public/image41_2.avif",
-      "../public/image41_3.avif",
-      "../public/image41_4.avif"
+        image41_1,image41_2,image41_3,image41_4
     ],
     "category": "FEMALE-BAGS"
   },
@@ -839,10 +906,7 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image42_1.avif",
-      "../public/image42_2.avif",
-      "../public/image42_3.avif",
-      "../public/image42_4.avif"
+         image42_1,image42_2,image42_3,image42_4
     ],
     "category": "FEMALE-BAGS"
   },
@@ -854,10 +918,7 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image43_1.avif",
-      "../public/image43_2.avif",
-      "../public/image43_3.avif",
-      "../public/image43_4.avif"
+         image43_1,image43_2,image43_3,image43_4
     ],
     "category": "FEMALE-BAGS"
   },
@@ -869,10 +930,7 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image44_1.avif",
-      "../public/image44_2.avif",
-      "../public/image44_3.avif",
-      "../public/image44_4.avif"
+         image44_1,image44_2,image44_3,image44_4
     ],
     "category": "MALE-BAGS"
   },
@@ -884,10 +942,7 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image45_1.avif",
-      "../public/image45_2.avif",
-      "../public/image45_3.avif",
-      "../public/image45_4.avif"
+         image45_1,image45_2,image45_3,image45_4
     ],
     "category": "MALE-BAGS"
   },
@@ -899,9 +954,7 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image46_1.avif",
-      "../public/image46_2.avif",
-      "../public/image46_3.avif"
+        image46_1,image46_2,image46_3
     ],
     "category": "MALE-BAGS"
   },
@@ -913,10 +966,7 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image47_1.avif",
-      "../public/image47_2.avif",
-      "../public/image47_3.avif",
-      "../public/image47_4.avif"
+         image47_1,image47_2,image47_3,image47_4
     ],
     "category": "MALE-BAGS"
   },
@@ -928,10 +978,7 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image48_1.avif",
-      "../public/image48_2.avif",
-      "../public/image48_3.avif",
-      "../public/image48_4.avif"
+         image48_1,image48_2,image48_3,image48_4
     ],
     "category": "MALE-BAGS"
   },
