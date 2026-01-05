@@ -1,7 +1,7 @@
 import React from 'react'
 import Heading from './Heading.jsx'
-import male from '../assets/male.jpg'
-import female from '../assets/female.jpg'
+import male from '../assets/male.avif'
+import female from '../assets/female.avif'
 import { Link } from 'react-router'
 
 const Category = () => {

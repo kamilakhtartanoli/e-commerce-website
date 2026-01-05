@@ -13,10 +13,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image1_1.jpg",
-      "../public/image1_2.jpg",
-      "../public/image1_3.jpg",
-      "../public/image1_4.jpg"
+      "../public/image1_1.avif",
+      "../public/image1_2.avif",
+      "../public/image1_3.avif",
+      "../public/image1_4.avif"
     ],
     "category": "SHIRTS"
   },
@@ -34,10 +34,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image2_1.jpg",
-      "../public/image2_2.jpg",
-      "../public/image2_3.jpg",
-      "../public/image2_4.jpg"
+      "../public/image2_1.avif",
+      "../public/image2_2.avif",
+      "../public/image2_3.avif",
+      "../public/image2_4.avif"
     ],
     "category": "SHIRTS"
   },
@@ -55,10 +55,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image3_1.jpg",
-      "../public/image3_2.jpg",
-      "../public/image3_3.jpg",
-      "../public/image3_4.jpg"
+      "../public/image3_1.avif",
+      "../public/image3_2.avif",
+      "../public/image3_3.avif",
+      "../public/image3_4.avif"
     ],
     "category": "SHIRTS"
   },
@@ -76,10 +76,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image4_1.jpg",
-      "../public/image4_2.jpg",
-      "../public/image4_3.jpg",
-      "../public/image4_4.jpg"
+      "../public/image4_1.avif",
+      "../public/image4_2.avif",
+      "../public/image4_3.avif",
+      "../public/image4_4.avif"
     ],
     "category": "SHIRTS"
   },
@@ -97,10 +97,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image5_1.jpg",
-      "../public/image5_2.jpg",
-      "../public/image5_3.jpg",
-      "../public/image5_4.jpg"
+      "../public/image5_1.avif",
+      "../public/image5_2.avif",
+      "../public/image5_3.avif",
+      "../public/image5_4.avif"
     ],
     "category": "SHIRTS"
   },
@@ -118,10 +118,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image6_1.jpg",
-      "../public/image6_2.jpg",
-      "../public/image6_3.jpg",
-      "../public/image6_4.jpg"
+      "../public/image6_1.avif",
+      "../public/image6_2.avif",
+      "../public/image6_3.avif",
+      "../public/image6_4.avif"
     ],
     "category": "FORMAL-SHOES"
   },
@@ -139,10 +139,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image7_1.jpg",
-      "../public/image7_2.jpg",
-      "../public/image7_3.jpg",
-      "../public/image7_4.jpg"
+      "../public/image7_1.avif",
+      "../public/image7_2.avif",
+      "../public/image7_3.avif",
+      "../public/image7_4.avif"
     ],
     "category": "FORMAL-SHOES"
   },
@@ -160,10 +160,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image8_1.jpg",
-      "../public/image8_2.jpg",
-      "../public/image8_3.jpg",
-      "../public/image8_4.jpg"
+      "../public/image8_1.avif",
+      "../public/image8_2.avif",
+      "../public/image8_3.avif",
+      "../public/image8_4.avif"
     ],
     "category": "FORMAL-SHOES"
   },
@@ -181,10 +181,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image9_1.jpg",
-      "../public/image9_2.jpg",
-      "../public/image9_3.jpg",
-      "../public/image9_4.jpg"
+      "../public/image9_1.avif",
+      "../public/image9_2.avif",
+      "../public/image9_3.avif",
+      "../public/image9_4.avif"
     ],
     "category": "FORMAL-SHOES"
   },
@@ -202,10 +202,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image10_1.jpg",
-      "../public/image10_2.jpg",
-      "../public/image10_3.jpg",
-      "../public/image10_4.jpg"
+      "../public/image10_1.avif",
+      "../public/image10_2.avif",
+      "../public/image10_3.avif",
+      "../public/image10_4.avif"
     ],
     "category": "FORMAL-SHOES"
   },
@@ -223,10 +223,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image11_1.jpg",
-      "../public/image11_2.jpg",
-      "../public/image11_3.jpg",
-      "../public/image11_4.jpg"
+      "../public/image11_1.avif",
+      "../public/image11_2.avif",
+      "../public/image11_3.avif",
+      "../public/image11_4.avif"
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -244,10 +244,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image12_1.jpg",
-      "../public/image12_2.jpg",
-      "../public/image12_3.jpg",
-      "../public/image12_4.jpg"
+      "../public/image12_1.avif",
+      "../public/image12_2.avif",
+      "../public/image12_3.avif",
+      "../public/image12_4.avif"
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -265,10 +265,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image13_1.jpg",
-      "../public/image13_2.jpg",
-      "../public/image13_3.jpg",
-      "../public/image13_4.jpg"
+      "../public/image13_1.avif",
+      "../public/image13_2.avif",
+      "../public/image13_3.avif",
+      "../public/image13_4.avif"
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -286,10 +286,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image14_1.jpg",
-      "../public/image14_2.jpg",
-      "../public/image14_3.jpg",
-      "../public/image14_4.jpg"
+      "../public/image14_1.avif",
+      "../public/image14_2.avif",
+      "../public/image14_3.avif",
+      "../public/image14_4.avif"
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -307,10 +307,10 @@ export const data = [
       "XL"
     ],
     "image": [
-      "../public/image15_1.jpg",
-      "../public/image15_2.jpg",
-      "../public/image15_3.jpg",
-      "../public/image15_4.jpg"
+      "../public/image15_1.avif",
+      "../public/image15_2.avif",
+      "../public/image15_3.avif",
+      "../public/image15_4.avif"
     ],
     "category": "SHALWAR-KAMEEZ"
   },
@@ -328,10 +328,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image16_1.jpg",
-      "../public/image16_2.jpg",
-      "../public/image16_3.jpg",
-      "../public/image16_4.jpg"
+      "../public/image16_1.avif",
+      "../public/image16_2.avif",
+      "../public/image16_3.avif",
+      "../public/image16_4.avif"
     ],
     "category": "SANDLES"
   },
@@ -349,10 +349,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image17_1.jpg",
-      "../public/image17_2.jpg",
-      "../public/image17_3.jpg",
-      "../public/image17_4.jpg"
+      "../public/image17_1.avif",
+      "../public/image17_2.avif",
+      "../public/image17_3.avif",
+      "../public/image17_4.avif"
     ],
     "category": "SANDLES"
   },
@@ -370,10 +370,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image18_1.jpg",
-      "../public/image18_2.jpg",
-      "../public/image18_3.jpg",
-      "../public/image18_4.jpg"
+      "../public/image18_1.avif",
+      "../public/image18_2.avif",
+      "../public/image18_3.avif",
+      "../public/image18_4.avif"
     ],
     "category": "SANDLES"
   },
@@ -391,10 +391,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image19_1.jpg",
-      "../public/image19_2.jpg",
-      "../public/image19_3.jpg",
-      "../public/image19_4.jpg"
+      "../public/image19_1.avif",
+      "../public/image19_2.avif",
+      "../public/image19_3.avif",
+      "../public/image19_4.avif"
     ],
     "category": "SANDLES"
   },
@@ -412,10 +412,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image20_1.jpg",
-      "../public/image20_2.jpg",
-      "../public/image20_3.jpg",
-      "../public/image20_4.jpg"
+      "../public/image20_1.avif",
+      "../public/image20_2.avif",
+      "../public/image20_3.avif",
+      "../public/image20_4.avif"
     ],
     "category": "SANDLES"
   },
@@ -433,10 +433,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image21_1.jpg",
-      "../public/image21_2.jpg",
-      "../public/image21_3.jpg",
-      "../public/image21_4.jpg"
+      "../public/image21_1.avif",
+      "../public/image21_2.avif",
+      "../public/image21_3.avif",
+      "../public/image21_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -454,10 +454,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image22_1.jpg",
-      "../public/image22_2.jpg",
-      "../public/image22_3.jpg",
-      "../public/image22_4.jpg"
+      "../public/image22_1.avif",
+      "../public/image22_2.avif",
+      "../public/image22_3.avif",
+      "../public/image22_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -475,10 +475,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image23_1.jpg",
-      "../public/image23_2.jpg",
-      "../public/image23_3.jpg",
-      "../public/image23_4.jpg"
+      "../public/image23_1.avif",
+      "../public/image23_2.avif",
+      "../public/image23_3.avif",
+      "../public/image23_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -496,10 +496,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image24_1.jpg",
-      "../public/image24_2.jpg",
-      "../public/image24_3.jpg",
-      "../public/image24_4.jpg"
+      "../public/image24_1.avif",
+      "../public/image24_2.avif",
+      "../public/image24_3.avif",
+      "../public/image24_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -517,10 +517,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image25_1.jpg",
-      "../public/image25_2.jpg",
-      "../public/image25_3.jpg",
-      "../public/image25_4.jpg"
+      "../public/image25_1.avif",
+      "../public/image25_2.avif",
+      "../public/image25_3.avif",
+      "../public/image25_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -538,10 +538,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image26_1.jpg",
-      "../public/image26_2.jpg",
-      "../public/image26_3.jpg",
-      "../public/image26_4.jpg"
+      "../public/image26_1.avif",
+      "../public/image26_2.avif",
+      "../public/image26_3.avif",
+      "../public/image26_4.avif"
     ],
     "category": "MAN-SNEAKERS"
   },
@@ -559,10 +559,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image27_1.jpg",
-      "../public/image27_2.jpg",
-      "../public/image27_3.jpg",
-      "../public/image27_4.jpg"
+      "../public/image27_1.avif",
+      "../public/image27_2.avif",
+      "../public/image27_3.avif",
+      "../public/image27_4.avif"
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -579,10 +579,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image28_1.jpg",
-      "../public/image28_2.jpg",
-      "../public/image28_3.jpg",
-      "../public/image28_4.jpg"
+      "../public/image28_1.avif",
+      "../public/image28_2.avif",
+      "../public/image28_3.avif",
+      "../public/image28_4.avif"
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -600,10 +600,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image29_1.jpg",
-      "../public/image29_2.jpg",
-      "../public/image29_3.jpg",
-      "../public/image29_4.jpg"
+      "../public/image29_1.avif",
+      "../public/image29_2.avif",
+      "../public/image29_3.avif",
+      "../public/image29_4.avif"
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -621,10 +621,10 @@ export const data = [
       "43"
     ],
     "image": [
-      "../public/image30_1.jpg",
-      "../public/image30_2.jpg",
-      "../public/image30_3.jpg",
-      "../public/image30_4.jpg"
+      "../public/image30_1.avif",
+      "../public/image30_2.avif",
+      "../public/image30_3.avif",
+      "../public/image30_4.avif"
     ],
     "category": "WOMEN-SNEAKERS"
   },
@@ -642,10 +642,10 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image31_1.jpg",
-      "../public/image31_2.jpg",
-      "../public/image31_3.jpg",
-      "../public/image31_4.jpg"
+      "../public/image31_1.avif",
+      "../public/image31_2.avif",
+      "../public/image31_3.avif",
+      "../public/image31_4.avif"
     ],
     "category": "TROUSERS"
   },
@@ -663,8 +663,8 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image32_1.jpg",
-      "../public/image32_2.jpg"
+      "../public/image32_1.avif",
+      "../public/image32_2.avif"
     ],
     "category": "TROUSERS"
   },
@@ -682,10 +682,10 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image33_1.jpg",
-      "../public/image33_2.jpg",
-      "../public/image33_3.jpg",
-      "../public/image33_4.jpg"
+      "../public/image33_1.avif",
+      "../public/image33_2.avif",
+      "../public/image33_3.avif",
+      "../public/image33_4.avif"
     ],
     "category": "TROUSERS"
   },
@@ -703,9 +703,9 @@ export const data = [
       "33w"
     ],
     "image": [
-      "../public/image34_1.jpg",
-      "../public/image34_2.jpg",
-      "../public/image34_3.jpg"
+      "../public/image34_1.avif",
+      "../public/image34_2.avif",
+      "../public/image34_3.avif"
     ],
     "category": "TROUSERS"
   },
@@ -722,9 +722,9 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image35_1.jpg",
-      "../public/image35_2.jpg",
-      "../public/image35_3.jpg"
+      "../public/image35_1.avif",
+      "../public/image35_2.avif",
+      "../public/image35_3.avif"
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -741,9 +741,9 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image36_1.jpg",
-      "../public/image36_2.jpg",
-      "../public/image36_3.jpg"
+      "../public/image36_1.avif",
+      "../public/image36_2.avif",
+      "../public/image36_3.avif"
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -760,10 +760,10 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image37_1.jpg",
-      "../public/image37_2.jpg",
-      "../public/image37_3.jpg",
-      "../public/image37_4.jpg"
+      "../public/image37_1.avif",
+      "../public/image37_2.avif",
+      "../public/image37_3.avif",
+      "../public/image37_4.avif"
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -780,9 +780,9 @@ export const data = [
       "L"
     ],
     "image": [
-      "../public/image38_1.jpg",
-      "../public/image38_2.jpg",
-      "../public/image38_3.jpg"
+      "../public/image38_1.avif",
+      "../public/image38_2.avif",
+      "../public/image38_3.avif"
     ],
     "category": "BOTTOM-WEAR"
   },
@@ -794,10 +794,10 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image39_1.jpg",
-      "../public/image39_2.jpg",
-      "../public/image39_3.jpg",
-      "../public/image39_4.jpg"
+      "../public/image39_1.avif",
+      "../public/image39_2.avif",
+      "../public/image39_3.avif",
+      "../public/image39_4.avif"
     ],
     "category": "FEMALE-BAGS"
   },
@@ -809,10 +809,10 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image40_1.jpg",
-      "../public/image40_2.jpg",
-      "../public/image40_3.jpg",
-      "../public/image40_4.jpg"
+      "../public/image40_1.avif",
+      "../public/image40_2.avif",
+      "../public/image40_3.avif",
+      "../public/image40_4.avif"
     ],
     "category": "FEMALE-BAGS"
   },
@@ -824,10 +824,10 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image41_1.jpg",
-      "../public/image41_2.jpg",
-      "../public/image41_3.jpg",
-      "../public/image41_4.jpg"
+      "../public/image41_1.avif",
+      "../public/image41_2.avif",
+      "../public/image41_3.avif",
+      "../public/image41_4.avif"
     ],
     "category": "FEMALE-BAGS"
   },
@@ -839,10 +839,10 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image42_1.jpg",
-      "../public/image42_2.jpg",
-      "../public/image42_3.jpg",
-      "../public/image42_4.jpg"
+      "../public/image42_1.avif",
+      "../public/image42_2.avif",
+      "../public/image42_3.avif",
+      "../public/image42_4.avif"
     ],
     "category": "FEMALE-BAGS"
   },
@@ -854,10 +854,10 @@ export const data = [
     "latest": false,
     "gender": "female",
     "image": [
-      "../public/image43_1.jpg",
-      "../public/image43_2.jpg",
-      "../public/image43_3.jpg",
-      "../public/image43_4.jpg"
+      "../public/image43_1.avif",
+      "../public/image43_2.avif",
+      "../public/image43_3.avif",
+      "../public/image43_4.avif"
     ],
     "category": "FEMALE-BAGS"
   },
@@ -869,10 +869,10 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image44_1.jpg",
-      "../public/image44_2.jpg",
-      "../public/image44_3.jpg",
-      "../public/image44_4.jpg"
+      "../public/image44_1.avif",
+      "../public/image44_2.avif",
+      "../public/image44_3.avif",
+      "../public/image44_4.avif"
     ],
     "category": "MALE-BAGS"
   },
@@ -884,10 +884,10 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image45_1.jpg",
-      "../public/image45_2.jpg",
-      "../public/image45_3.jpg",
-      "../public/image45_4.jpg"
+      "../public/image45_1.avif",
+      "../public/image45_2.avif",
+      "../public/image45_3.avif",
+      "../public/image45_4.avif"
     ],
     "category": "MALE-BAGS"
   },
@@ -899,9 +899,9 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image46_1.jpg",
-      "../public/image46_2.jpg",
-      "../public/image46_3.jpg"
+      "../public/image46_1.avif",
+      "../public/image46_2.avif",
+      "../public/image46_3.avif"
     ],
     "category": "MALE-BAGS"
   },
@@ -913,10 +913,10 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image47_1.jpg",
-      "../public/image47_2.jpg",
-      "../public/image47_3.jpg",
-      "../public/image47_4.jpg"
+      "../public/image47_1.avif",
+      "../public/image47_2.avif",
+      "../public/image47_3.avif",
+      "../public/image47_4.avif"
     ],
     "category": "MALE-BAGS"
   },
@@ -928,10 +928,10 @@ export const data = [
     "latest": false,
     "gender": "male",
     "image": [
-      "../public/image48_1.jpg",
-      "../public/image48_2.jpg",
-      "../public/image48_3.jpg",
-      "../public/image48_4.jpg"
+      "../public/image48_1.avif",
+      "../public/image48_2.avif",
+      "../public/image48_3.avif",
+      "../public/image48_4.avif"
     ],
     "category": "MALE-BAGS"
   },

@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Navbar";
 import Footer from "./Footer";
-import about from '../assets/about.jpg';
+import about from '../assets/about.avif';
 
 const About = () => {
   return (
